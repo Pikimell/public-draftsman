@@ -1,4 +1,4 @@
-# public-draftsman
+# Draftsman
 
 ## Theoretical material
 
